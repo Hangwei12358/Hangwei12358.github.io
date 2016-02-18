@@ -1,2 +1,3 @@
 # Hangwei12358.github.io
-My webpage on structure
+This is QIAN Hangwei's homepage: http://hangwei12358.github.io/ 
+Hope you will like it~
