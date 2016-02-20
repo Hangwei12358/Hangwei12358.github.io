@@ -1,11 +1,11 @@
 ---
 layout: default
-title: QIAN Hangwei's Notes
+title: Notes
+notes: active
+description: Notes and short essays by Jonathan McGlone, a Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, and Web Noodler living and working in Michigan.
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<div class="notes">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+     			{% include post-list.html %}
+			
+	</div> <!-- .notes -->

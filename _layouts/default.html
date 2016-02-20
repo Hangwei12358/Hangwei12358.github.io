@@ -1,30 +1,22 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/notes">Notes</a></li>
-	        		<li><a href="/contact">Contact</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+<html lang="en">
+	
+	{% include head.html %}
+	
+	<body>
+		<div class="container">
+			
+			{% include header.html %}
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:qianhangwei820@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/Hangwei12358">github.com/Hangwei12358</a></li>
-				</ul>
-				<a href="http://info.flagcounter.com/cDjt"><img src="http://s01.flagcounter.com/count2/cDjt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-			</footer>
-		</body>
-	</html>
+			{% include footer.html %}
+		
+		</div> <!-- /container -->
+	
+	
+		{% include scripts.html %}
+	
+	</body>
+
+</html>
