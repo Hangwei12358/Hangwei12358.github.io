@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>QIAN Hangwei's Blog</title>
+	<title>QIAN Hangwei's Notes</title>
 	<link href="http://Hangwei12358.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://Hangwei12358.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://Hangwei12358.github.io/blog</id>
+	<id>http://Hangwei12358.github.io/notes</id>
 	<author>
 		<name>QIAN Hangwei</name>
 		<email>qianhangwei820@gmail.com</email>
