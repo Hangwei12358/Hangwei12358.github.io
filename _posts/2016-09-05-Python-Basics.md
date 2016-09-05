@@ -5,14 +5,12 @@ date: 2016-09-5
 ---
 
 
-# Python Notes in Data Science 
-
 - no comma or semi-comma at the end of each line of code!
 - This course focus on Python 3.x.
 - ';' is to place 2 commands on the same line
 
 ### comments
-use #.
+use #
 
 ### print results and calculations
 
@@ -110,6 +108,7 @@ remove: del(list_1[-4])
 ```
 
 ### Functions and Packages
+
 show the documentation of a function: 
 
 ```sh
@@ -204,6 +203,7 @@ plt.show()
 plt.scatter(x,y,s = [], c = [], alpha = 0.8) % specify the size/color of each data point shown in circles, alpha is the transparant level from 0 to 1
 ```
 Histograms:
+
 ```sh
 plt.hist(list_name, bin = 3)
 plt.show()
