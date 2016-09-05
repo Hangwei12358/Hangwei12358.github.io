@@ -13,23 +13,17 @@ date: 2016-09-5
 
 ### comments
 use #.
-
 ### print results and calculations
-
 ```sh
 print(100*(1.1**7)-5)
 ```
-
 ### variables and types
-
 types decide the operations' action
-
 ```sh
 3 + 4
 "ab" + "cd"
 "a"* 4
 ```
-
 - Basic types in Python: int, float, str, bool, 
 - Compounded types: list,
 - Conversion of types: the following commands change other types of variables into the type of the name of the commands.
@@ -46,7 +40,6 @@ print(type(vari_name))
 ```
 
 ### Lists
-
 - Different types of variables can be in one list. separated by ','
 - A list can contain lists as well
 
@@ -59,16 +52,14 @@ house = [["hallway", hall],
          ["bedroom",  bed],
          ["bathroom", bath]]
 ```
-
 Subletting lists
 - use the brackets [].
 - Index starts from 0.
 - Negative index: from back to front, starts from -1. The last one is -1, and so on
-
+- 
 slicing and dicing
-
 - [start: end], end index is not included in the output
-
+- 
 
 ```sh
 list_1[0]
@@ -80,16 +71,13 @@ subset_list_result = list_1[1] + list_1[2]
 list_1[2][-1]
 list_1[-1][1]
 ```
-
 Tips:
-
 ```sh
 the first m elements: list_1[:m]
 the last n elements: list_1[-n:]
 ```
 
 #### Notice: 
-
 The list names are actually pointers!!! The first line below actually are 2 same pointers; while the second line below makes sure that two lists will not effect each other!
 
 ```sh
@@ -101,33 +89,29 @@ list_2_copy = list_2[:]
 Manipulating Lists:
 - replace the elements 
 - add and remove elements
-
-
+- 
 ```sh
 replace: list_1[i] = 2
 add: list_extended = list_1 + ["hi", 5]
 remove: del(list_1[-4])
+
 ```
 
 ### Functions and Packages
 show the documentation of a function: 
-
 ```sh
 help(func_name)
 ?func_name
 ?func_name()
 ```
-
 ```sh
 length of a list/string: len(var_name)
 ```
-
 ### Methods: functions that depending on types
 
 you can use help() to find all the methods of a certain type/function
 
 list methods:
-
 ```sh
 not change the list:
 list_name.index(some_element)
@@ -137,9 +121,7 @@ list_name.append(appended_element) % append one element each time
 list_name.remove()
 list_name.reverse()
 ```
-
 String methods
-
 ```sh
 string_name.capitalize()
 string_name.replace()
@@ -156,7 +138,6 @@ Useful packages for data science:
 - Scikit-learn
 
 import package
-
 ```sh
 import numpy % import the entire package
 import numpy as np % rename to make it easier
@@ -166,11 +147,9 @@ from ... import ... as ...
 ```
 
 ### Numpy
-
 - element-wise calculations
 - arrays: contain only one type
 - can use [] to get the elements
-
 ```sh
 list(list>23) % only elements larger than 23 was kept
 np_array_name = np.array(list_name) % convert list to array
@@ -187,16 +166,13 @@ np.random.normal() % generate random numbers
 ### Data visualization: Matplotlib
 
  Line plot:
-
 ```sh
 import package.subpackage as local_name
 import matplotlib.pyplot as plt
 plt.plot(x,y)
 plt.show()
 ```
-
 Scatter plot:
-
 ```sh
 plt.scatter(x,y)
 plt.xscale('log') % put x-axis on a log scale
@@ -211,7 +187,6 @@ plt.clf() % clear the plot
 ```
 
 Customize the plots:
-
 ```sh
 plt.xlabel('x_axis's name')
 plt.ylabel('y_axis's label')
@@ -224,9 +199,7 @@ plt.xticks(tick_val, tick_lab)
 plt.grid(True) % place grid
 plt.text(x,y,'text')
 ```
-
 ### Control Flow and Pandas
-
 ```sh
 if condition :
     expression
@@ -235,9 +208,7 @@ elif condition :
 else :
     expression
 ```
-
 Pandas: A great package to deal with the tabular data with different types of data.
-
 ```sh
 import pandas as pd
 cars = pd.readcsv('cars.csv') % default row label is from 0 ..
