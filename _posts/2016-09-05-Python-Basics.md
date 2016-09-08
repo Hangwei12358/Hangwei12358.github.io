@@ -8,6 +8,10 @@ date: 2016-09-5
 - no comma or semi-comma at the end of each line of code!
 - This course focus on Python 3.x.
 - ';' is to place 2 commands on the same line
+- 
+
+
+
 
 ### comments
 use #
@@ -27,6 +31,70 @@ types decide the operations' action
 "ab" + "cd"
 "a"* 4
 ```
+
+#### strings
+
+-  "" and '' can both be used in strings
+
+```sh
+input_1 = raw_input('test_to_show_: ') % input is string
+len()
+```
+
+loop through a string, don't need to set an index and increase it every time by 1
+
+```sh
+for letter in str_1: 
+    print letter
+```
+
+count the number of some letter
+
+```sh
+for letter in str_1:
+    if letter == "o":
+        count = count + 1
+```
+
+logical operation, return true/ false :
+
+```sh
+'a' in str_name
+```
+
+find specific letter in string
+find specific letter after position 1 (parsing text)
+
+```sh
+position_1 = str_1.find("na")
+position_2 = str_1.find("str_2", position_1) 
+```
+
+replace all the str_1 with str_2 in the string:
+
+```sh
+str.replace("str_1","str_2")
+```
+
+what functions can this string embed
+```sh
+dir(str_name)
+```
+
+stripping whitespace;
+
+```sh
+str_1.lstrip()
+str_1.rstrip()
+str_1.strip()
+```
+
+judge whether the first word in string is sth:
+
+```sh
+str_1.startswith("str")
+```
+
 
 - Basic types in Python: int, float, str, bool, 
 - Compounded types: list,
@@ -236,6 +304,15 @@ else :
     expression
 ```
 
+For loops:
+
+```sh
+for i in range(int_1, int_2):
+    do_sth
+```
+
+
+
 Pandas: A great package to deal with the tabular data with different types of data.
 
 ```sh
@@ -257,5 +334,27 @@ select sub_DataFrame
 cars.loc[['row_1','row_2'],['col_1','col_2']]
 
 ```
+### good codes
+
+reverse a string/list
+
+```sh
+str_1[::-1]
+```
+
+find a single number in a list where all others are in two
+
+```sh
+res = 0
+for num in nums:
+    res ^= num
+print res
+```
+
+```sh
+^= can be seen as not-binary XOR.  
+x ^ x = 0
+```
+
 
 
