@@ -7,11 +7,9 @@ Teaching: active
 notes: passive
 ---
 <div class="Teaching">
-  
-<p><a href="NTU Academic Calendar (Semester)_AY2017-18_upd11Apr2017.pdf" target="_blank" class="btn btn-success">Academic Calendar</a></p>
 
 
-<p><dt>AY 2017-18 Semester II </dt></p>
+<p><dt>AY 2017-18 Semester II </dt><a href="NTU Academic Calendar (Semester)_AY2017-18_upd11Apr2017.pdf" target="_blank" class="btn btn-success">Academic Calendar</a></p>
 <ul>
 <li> 
 <p>CZ3005 Artificial Intelligence (Labs), Nanyang Technological University, Singapore.</p>
