@@ -8,11 +8,21 @@ notes: passive
 ---
 <div class="Teaching">
   
+<p><dt>AY 2017-18 Semester II</dt></p>
+<ul>
+<li> 
+<p>CZ3005 Artificial Intelligence (Labs), Nanyang Technological University, Singapore.</p>
+<p>CZ3003 Software System Analysis and Design (Labs), Nanyang Technological University, Singapore.</p>
+<p>CZ3002 Advanced Software Engineering (Labs), Nanyang Technological University, Singapore.</p>
+</li>
+</ul> 
+
+
 <p><dt>AY 2017-18 Semester I</dt></p>
 <ul>
 <li> 
 <p>CZ3003 Software System Analysis and Design (Labs), Nanyang Technological University, Singapore.</p>
-<p><a href="Nodejs_install_Hangwei_Qian.pdf" target="_blank" class="btn btn-default" title="Nodejs installation Guide">Nodejs installation Guide</a></p>
+<p><a href="Nodejs_install_Hangwei_Qian.pdf" target="_blank" class="btn btn-success" title="Nodejs installation Guide">Nodejs installation Guide</a></p>
 </li>
 </ul>  
     
