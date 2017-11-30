@@ -2,6 +2,7 @@
 layout: default
 title: Hangwei QIAN
 Publications: passive
+Teaching: passive
 notes: passive
 ---
 <!-- <div class="jumbotron"> -->
@@ -10,7 +11,7 @@ notes: passive
 	<img  class="img-circle avatar" alt="Hangwei QIAN" src="img/Qian_Hangwei.jpg">
 	</div>
 	<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
-	<p class="lead">Hi there, I'm Hangwei QIAN, a Ph.D. student (2015.08 - now) in School of Computer Science and Engineering at <a href="http://www.ntu.edu.sg/Pages/home.aspx"  target="_blank">Nanyang Technological University</a>. <!-- p class="lead" -->
+	<p class="lead">Hi there, I'm Hangwei QIAN, a Ph.D. student (2015.08 - now) in School of Computer Science and Engineering at <a href="http://www.ntu.edu.sg/Pages/home.aspx"  target="_blank">Nanyang Technological University</a>, Singapore. <!-- p class="lead" -->
     <p>My research focuses on Machine Learning, especially kernel-based learning methods. I'm honored to work with <a href= "http://www.ntu.edu.sg/home/sinnopan/" target="_blank">Professor Sinno Jialin Pan</a>.</p>
     
     <p>I received a Bachelors of Electronic Engineering and Automation from<a href="http://en.ustc.edu.cn/" target = "_blank"> Univeristy of Science and Technology of China</a> in 2015.</p>
