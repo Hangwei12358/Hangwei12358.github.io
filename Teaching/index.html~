@@ -12,9 +12,9 @@ notes: passive
 <p><dt>AY 2017-18 Semester II </dt><a href="NTU Academic Calendar (Semester)_AY2017-18_upd11Apr2017.pdf" target="_blank" class="btn btn-success">Academic Calendar</a></p>
 <ul>
 <li> 
-<p>CZ3005 Artificial Intelligence (Labs)</p></li>
+CZ3005 Artificial Intelligence (Labs)</li>
 <li>
-<p>CZ3003 Software System Analysis and Design (Labs)</p></li>
+CZ3003 Software System Analysis and Design (Labs)</li>
 <li>
 CZ3002 Advanced Software Engineering (Labs)
 </li>
@@ -24,7 +24,7 @@ CZ3002 Advanced Software Engineering (Labs)
 <p><dt>AY 2017-18 Semester I</dt></p>
 <ul>
 <li> 
-<p>CZ3003 Software System Analysis and Design (Labs)</p>
+CZ3003 Software System Analysis and Design (Labs)
 <p><a href="Nodejs_install_Hangwei_Qian.pdf" target="_blank" class="btn btn-success" title="Nodejs installation Guide">Nodejs installation Guide</a></p>
 </li>
 </ul>  
