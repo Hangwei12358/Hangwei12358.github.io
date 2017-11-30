@@ -2,8 +2,8 @@
 layout: default
 title: Publications
 home: passive
-Publications: active
-Teaching: passive
+Publications: passive
+Teaching: active
 notes: passive
 ---
 <div class="Publications">
