@@ -17,6 +17,5 @@
   <script src="../../assets/js/html5shiv.js"></script>
   <script src="../../assets/js/respond.min.js"></script>
 	<![endif]-->
-	<!-- google analytics - i will not share this data with google -->
 	{% include analytics.html %}	
 </head>
