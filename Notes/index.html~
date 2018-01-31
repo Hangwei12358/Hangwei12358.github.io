@@ -3,7 +3,7 @@ layout: default
 title: Notes
 Publications: passive
 Teaching: passive
-Notes: active
+Notes: passive
 ---
     
 <div class="Notes">
@@ -26,6 +26,7 @@ NIPS 2017 Test-of-time award presentation <a href= "https://youtu.be/Qi1Yry33TQE
 </ul>    
 <p><dt>Online Machine Learning Courses</dt></p>
 <ul>
+<li> Statistical Learning Theory and Applications <a href= "http://www.mit.edu/~9.520/fall17/" target="_blank">course page</a></li>	
 <li> CS20 Tensorflow for Deep Learning Research <a href= "https://web.stanford.edu/class/cs20si/index.html" target="_blank">course page</a></li>	
 <li> CS229 Machine Learning by Andrew Ng <a href= "http://cs229.stanford.edu/syllabus.html" target="_blank">course page</a></li>
 </ul>   
