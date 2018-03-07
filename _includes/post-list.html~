@@ -6,10 +6,10 @@
    -->
 
 
-          <a href="{{ site.baseurl }}{{ post.url }}" target = "_blank">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
+    <a href="{{ site.baseurl }}{{ post.url }}" target = "_blank">
+    {{ post.title }}
+    <small>{{ post.date | date_to_string }}</small>
+    </a>
 
 
     </ul>
