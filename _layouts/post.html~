@@ -7,7 +7,7 @@ notes: active
 
 <div class="notes">
 		<div class="note single">
-			<p><dt> class="title">{{ page.title }}</p></dt>
+			<p><dt> <class="title">{{ page.title }}</p></dt>
 			
 			<class="date"><info datetime="{{ page.date }}">
 				<p>{{ page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
