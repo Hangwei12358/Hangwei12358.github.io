@@ -37,8 +37,7 @@ Test the Keras with examples in official
 $ curl -sSL https://github.com/fchollet/keras/raw/master/examples/mnist_mlp.py | python
 ```
 without GPU in lily server: ~2min
+
 with GPU in lily server: ~1min
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
