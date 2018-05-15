@@ -29,7 +29,7 @@ The solution is: to change the file /usr/include/cudnn.h,  I changed the line:
 
 to:
   
->#include <driver_types.h>  
+>#include <driver_types.h>
  
 
 Test the Keras with examples in official
@@ -38,8 +38,6 @@ $ curl -sSL https://github.com/fchollet/keras/raw/master/examples/mnist_mlp.py |
 ```
 without GPU in lily server: ~2min
 with GPU in lily server: ~1min
-
-
 
 
 
