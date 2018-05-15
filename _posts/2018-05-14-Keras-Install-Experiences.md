@@ -25,16 +25,17 @@ The error is
 >/usr/local/cuda/include/cuda_runtime_api.h:1683:101: error:  use of enum  ‘cudaDeviceP2PAttr’ without previous declaration
 
 The solution is: to change the file /usr/include/cudnn.h,  I changed the line:
->#include "driver_types.h" 
-
-to:
-  
->#include <driver_types.h>
- 
+```
+#include "driver_types.h" 
+```
+to
+```
+#include <driver_types.h>
+```
 
 Test the Keras with examples in official
 ```
-$ curl -sSL https://github.com/fchollet/keras/raw/master/examples/mnist_mlp.py | python
+curl -sSL https://github.com/fchollet/keras/raw/master/examples/mnist_mlp.py | python
 ```
 without GPU in lily server: ~2min
 
