@@ -6,6 +6,7 @@ date: 2018-05-16
 
 
 ﻿Summary of transfer-based papers in AAAI'18
+
 May. 16. 2018, by Hangwei
 
 -----------------------------------------------------
@@ -13,6 +14,7 @@ May. 16. 2018, by Hangwei
 ### Tips
 > many of the accepted papers do not choose keywords 'transfer learning'
 > the category of the paper does not all match the keywords chosen during submission.
+
 ### Summary
 In total, there are 20 papers that contain 'transfer' in title in accepted papers of AAAI'18. There does not exist papers on transfer-based Human Activity Recognition, therefore it's possible and promise to conduct such a paper for AAAI'19.
 

@@ -6,6 +6,7 @@ date: 2018-05-16
 
 
 ﻿Summary of transfer-based papers in AAAI'18
+
 May. 16. 2018, by Hangwei
 
 -----------------------------------------------------
@@ -41,7 +42,4 @@ In total, there are 20 papers that contain 'transfer' in title in accepted paper
 | student abstract | enhance RNN based OCR by transductive transfer learning from text to images | - | - |
 | student abstract | use web-distance to align the data of different domains | HAR in smart homes | SVM, transfer-based methods |
 
-
-template: 
-| keywords | contents | datasets | baseline methods |
 
