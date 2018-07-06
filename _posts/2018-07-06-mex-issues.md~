@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018-07-06-mex-issues"
+title: "mex issues"
 date: 2018-07-06
 ---
 Mex function is really helpful for transforming C/C++ source files into .mexa files for Matlab to use. However it's not trivial sometimes to debug the mex functions due to system architecture and version problems.
