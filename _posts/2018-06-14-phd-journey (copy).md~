@@ -1,0 +1,14 @@
+---
+layout: post
+title: "2018-06-14-phd-journey"
+date: 2018-06-14
+---
+
+PhD is a unique journey for every candidate. The experiences vary based on your supervisors, topics, friends, families, etc. However, one thing in common is that it's not a easy job. It's common to experience sadness and feeling of lost. So it's quite helpful to read others' suggestions when you are stuck.
+
+Here are lists that I find quite helpful. The sequence is based on my personal preference.
+ 
+<a href="http://www.maiconference.com/uploads/1/1/0/7/110798645/survive-your-phd-ebook.pdf" target = "_blank">17 simple strategies to survive your PhD</a>.
+
+
+
