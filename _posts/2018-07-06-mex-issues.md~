@@ -13,4 +13,5 @@ Then I tried millions of different methods and tricks found online, and finally 
 > Simply modify the .obj in the code to .o 
 
 
+As shown in the following screenshot, the commented green code is the previous code, and the uncommented lines are corrected version. Nailed it!
 ![mex-solution](mex-solution.png)

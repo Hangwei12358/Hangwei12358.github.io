@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018-06-14-phd-journey"
+title: "phd journey"
 date: 2018-06-14
 ---
 
