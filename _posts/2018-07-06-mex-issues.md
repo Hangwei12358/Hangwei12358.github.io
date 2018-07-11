@@ -14,4 +14,4 @@ Then I tried millions of different methods and tricks found online, and finally 
 
 
 As shown in the following screenshot, the commented green code is the previous code, and the uncommented lines are corrected version. Nailed it!
-![mex-solution](http://Hangwei12358.github.io/img/mex-solution.png??raw=true)
+![mex-solution](http://Hangwei12358.github.io/img/mex-solution.png?raw=true)
