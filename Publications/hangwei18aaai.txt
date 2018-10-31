@@ -1,8 +1,0 @@
-@inproceedings{hangwei18aaai,
-  author    = {Hangwei Qian and
-               Sinno Jialin Pan and
-               Chunyan Miao},
-  title     = {Sensor-based Activity Recognition via Learning from Distributions},
-  booktitle = {AAAI},
-  year      = {2018}
-}
