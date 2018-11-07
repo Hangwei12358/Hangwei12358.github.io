@@ -1,0 +1,10 @@
+@inproceedings{DBLP:conf/aaai/QianPM19,
+  author    = {Hangwei Qian and
+               Sinno Jialin Pan and
+               Chunyan Miao},
+  title     = {Distribution-based Semi-Supervised Learning for Activity Recognition},
+  booktitle = {{AAAI}},
+  pages     = {},
+  publisher = {{AAAI} Press},
+  year      = {2019}
+}
