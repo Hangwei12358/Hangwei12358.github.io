@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "paper reading in 2019"
+title: "Class Imbalance Problem in Deep Learning"
 date: 2019-01-01
 ---
 

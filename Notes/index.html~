@@ -6,6 +6,9 @@ Teaching: passive
 Notes: active
 ---    
 <div class="Notes">
+
+Paper Reading in 2019
+
 {% include post-list.html %}
 
 
@@ -37,6 +40,9 @@ NIPS 2017 Test-of-time award presentation <a href= "https://youtu.be/Qi1Yry33TQE
 <li> CS229 Machine Learning by Andrew Ng <a href= "http://cs229.stanford.edu/syllabus.html" target="_blank">course page</a></li>
 </ul>  
  
+
+
+
 
 <p><dt>Book Reading </dt></p>
 <ul>
