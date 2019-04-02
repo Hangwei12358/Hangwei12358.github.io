@@ -14,7 +14,7 @@
 	        		<li><a href="https://github.com/Hangwei12358" target="_blank">github.com/Hangwei12358</a></li>     
 
   <li>
-    <a href="https://github.com/{{ site.github_username }}">
+    <a href="https://github.com/{{ site.github_username }}"  target="_blank">
       <i class="fa fa-github"></i> GitHub
     </a>
   </li>
