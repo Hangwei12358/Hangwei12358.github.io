@@ -4,7 +4,7 @@
 		<!--wait for my publications-->
 		<li class="{{ page.Publications }}"><a href="/Publications" title="Publications">Publications</a></li>
 		<li class="{{ page.Teaching }}"><a href="/Teaching" title="Publications">Teaching</a></li>
-		<li class="{{ page.Notes }}"><a href="/Notes" title="Notes">Notes</a></li>
+		<!--li class="{{ page.Notes }}"><a href="/Notes" title="Notes">Notes</a></li> -->
 	</ul>
 	<h3 class="text-muted"><a href="/">Hangwei QIAN's Homepage</a></h3>
 </div> <!-- /header -->
