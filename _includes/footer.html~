@@ -19,7 +19,7 @@
   </li>
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}" style="font-size:24px" target="_blank">
-      <i class="fa fa-linkedin-square"></i> 
+      <i class="fab fa-linkedin"></i> 
     </a>
   </li>
   <li>
