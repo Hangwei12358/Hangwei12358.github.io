@@ -10,3 +10,4 @@ It occurs after system updates of either one of the systems, and I find that the
 This feature should be set to `LAN or WLAN` instead of the default setting `DISABLED`, as shown in the following figure.
 ![BIOS setting for Ethernet connection](http://Hangwei12358.github.io/img/bios_setting.jpg?raw=true)
 
+![mex-error](http://Hangwei12358.github.io/img/mex-error.png?raw=true)
