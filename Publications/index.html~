@@ -11,11 +11,22 @@ Notes: passive
 
 
 
+<li><p><dt>A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition</dt></p>
+
+<p>To appear in IJCAI 2019 (13.7% of acceptance, 650/4752). </p>
+</li>
+
+
+
+
 <li><p><dt>Distribution-based Semi-Supervised Learning for Activity Recognition</dt></p>
 <p>
 	<a href= "http://hangwei12358.github.io/Publications/hangwei19aaai.txt" target="_blank" class="btn btn-info">bib</a>
+	<a href= "http://hangwei12358.github.io/Publications/AAAI-QianH.2680.pdf" target="_blank" class="btn btn-success">pdf</a> 
 	<a href= "http://hangwei12358.github.io/Publications/aaai19_slides_hangwei.pdf" target="_blank" class="btn btn-success">slides</a> 	
 </p>
+
+<p> Codes will be published soon!</p>
 
 <p>Hangwei Qian, Sinno Jialin Pan, Chunyan Miao</p>
 
