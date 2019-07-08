@@ -12,6 +12,9 @@ This page is under construction...
 {% include post-list.html %}
 
 
+ICML 2019 Conference Videos and Slides <a href= "https://icml.cc/Conferences/2019/Videos" target = "_blank">link</a>   
+CVPR 2019 Conference Videos <a href= "https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos" target = "_blank">link</a>   
+
 NIPS 2017 Test-of-time award presentation <a href= "https://youtu.be/Qi1Yry33TQE" target = "_blank">YouTube link</a>    
 
    <!-- <li> Kernel Methods Basics <a href= "kernel_basics.pdf" target="_blank">notes</a></li> -->
@@ -49,6 +52,6 @@ NIPS 2017 Test-of-time award presentation <a href= "https://youtu.be/Qi1Yry33TQE
    <!-- <li> Kernel Methods Basics <a href= "kernel_basics.pdf" target="_blank">notes</a></li> -->
     <!-- <a href="test.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a> -->
 </ul>  
--->
+
     
 </div> <!-- .notes -->
