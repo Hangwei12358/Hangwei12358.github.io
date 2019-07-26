@@ -128,16 +128,6 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 @font-text: 'Chivo', sans-serif;
 
 /* Base */
-
-body {
-  background: @background;
-  font-size: 16px;
-}
-
-p {
-  font-weight: 300;
-}
-
 a { 
   color: @color-dim;
   text-decoration: none;
@@ -162,13 +152,6 @@ strong {
   font-weight: 600;
 }
 
-h1 {
- font-family: @font-title;
- letter-spacing: 1.5px;
- color: @color-light;  
- font-weight: 400;
- font-size: 2.4em;
-}
 
 #content {
   margin-top: @spacing;
