@@ -16,8 +16,10 @@ Notes: passive
 	<a href="https://github.com/{{ site.github_username }}" style="font-size:24px" target="_blank">
       <i class="fab fa-github"></i>     </a>
 	        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" style="font-size:24px" target="_blank">
-      <i class="fab fa-linkedin"></i> 
-    </a>
+      <i class="fab fa-linkedin"></i> </a>
+           
+
+
 </p>
 	  
 
