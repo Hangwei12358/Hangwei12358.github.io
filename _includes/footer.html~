@@ -12,11 +12,7 @@
     <ul>
     <address>
 
-  <li>
-    <a href="mailto:{{ site.email_ntu }}" style="font-size:24px" target="_blank">
-      <i class="far fa-envelope"></i> 
-    </a>
-  </li>
+
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}" style="font-size:24px" target="_blank">
       <i class="fab fa-linkedin"></i> 
@@ -45,6 +41,13 @@ border="0" alt="Web Counter"></a></li -->
 
 
 <!--   
+  <li>
+    <a href="mailto:{{ site.email_ntu }}" style="font-size:24px" target="_blank">
+      <i class="far fa-envelope"></i> 
+    </a>
+  </li>
+
+
 
 
 
