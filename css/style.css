@@ -121,15 +121,9 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
   margin-left: -3px;
 }
 /* Container around content */
-.containerab {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
-}
 
 /* The circles on the timeline */
-.containerab::after {
+.container::after {
   content: '';
   position: absolute;
   width: 25px;
@@ -201,14 +195,14 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
   }
 
 /* Full-width containers */
-  .containerab {
+  .container {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
 
 /* Make sure that all arrows are pointing leftwards */
-  .containerab::before {
+  .container::before {
     left: 60px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;
