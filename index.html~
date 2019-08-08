@@ -8,34 +8,35 @@ Notes: passive
 <div class="row marketing">
 	<div class="col-sm-4">
 	<img  class="img-rounded" alt="Hangwei QIAN" src="img/Qian_Hangwei.jpg">
+
 	</div>
+
+
 	<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
+
 	<p>Hi there, I'm Hangwei QIAN, a Ph.D. student (2015.08 - now) in School of Computer Science and Engineering at Nanyang Technological University, Singapore. <!-- p class="lead" -->
     <p>My research focuses on Machine Learning, especially kernel-based learning methods. I'm honored to work with <a href= "http://www.ntu.edu.sg/home/sinnopan/" target="_blank">Professor Sinno Jialin Pan</a>.</p>
     
     <p>I received my B.E. from Automation, School of Information Science and Technology from<a href="http://en.ustc.edu.cn/" target = "_blank"> Univeristy of Science and Technology of China (USTC)</a> in 2015.</p>
+
+
+	<p><b>News!</b></p>
+	<ul style="list-style-type:circle;">
+	<li>Aug.10.2019: I will attend IJCAI from Aug.10 to Aug.16.</li>
+  	<li>July.10.2019: I submitted my thesis!</li>
+	</ul>  
+
+
 	</div>
+	
+	
+
 </div>
 
 
 
 
 <!-- test timeline function -->
-
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-</div>
 
 
 
