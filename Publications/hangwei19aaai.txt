@@ -4,7 +4,7 @@
                Chunyan Miao},
   title     = {Distribution-based Semi-Supervised Learning for Activity Recognition},
   booktitle = {{AAAI}},
-  pages     = {},
+  pages     = {7699--7706},
   publisher = {{AAAI} Press},
   year      = {2019}
 }
